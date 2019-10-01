@@ -1,36 +1,42 @@
-Vous voulez savoir des endroits sympas pour avoir accès à internet et à l'électricité en Republique Democratique du Congo? Ceci est un projet communautaire, les pulls requests sont acceptés.
+Besoin d'un endroit calme avec accès internet et électricité permanent en Republique Democratique du Congo? Ceci est un projet communautaire, les pulls requests sont acceptés.
 
 # Provinces
 
-1. [Bas-Uele](https://github.com/)
-2. [Équateur ](https://github.com/)
-3. [Haut-Katanga](https://github.com/)
-4. [ Haut-Lomami](https://github.com/)
-5. [Haut-Uele](https://github.com/)
-6. [Ituri](https://github.com/)
-7. [Kasaï](https://github.com/)
-8. [Kasaï-Central](https://github.com/)
-9. [Kasaï-Oriental](https://github.com/)
-10. [Kinshasa](https://github.com/)
-11. [Kongo-Central](https://github.com/)
-12. [Kwango](https://github.com/)
-13. [ Kwilu](https://github.com/)
-14. [Lomami](https://github.com/)
-15. [Lualaba](https://github.com/)
-16. [Mai-Ndombe](https://github.com/)
-17. [Maniema](https://github.com/)
-18. [Mongala](https://github.com/)
+1. [Bas-Uele](#bas-uele)
+2. [Équateur ](#équateur)
+3. [Haut-Katanga](#haut-katanga)
+4. [Haut-Lomami](#haut-lomami)
+5. [Haut-Uele](#haut-uele)
+6. [Ituri](#ituri)
+7. [Kasaï](#kasaï)
+8. [Kasaï-Central](#kasaï-central)
+9. [Kasaï-Oriental](#kasaï-oriental)
+10. [Kinshasa](#kinshasa)
+11. [Kongo-Central](#kongo-central)
+12. [Kwango](#kwango)
+13. [Kwilu](#kwilu)
+14. [Lomami](#lomami)
+15. [Lualaba](#lualaba)
+16. [Mai-Ndombe](#mai-ndombe)
+17. [Maniema](#maniema)
+18. [Mongala](#mongala)
 19. [Nord-Kivu](#nord-kivu)
-20. [ Nord-Ubangi](https://github.com/)
-21. [Sankuru](https://github.com/)
-22. [Sud-Kivu](https://github.com/)
-23. [Sud-Ubangi](https://github.com/)
-24. [Tanganyika](https://github.com/)
-25. [Tshopo](https://github.com/)
-26. [Tshuapa](https://github.com/)
+20. [ Nord-Ubangi](#nord-ubangi)
+21. [Sankuru](#sankuru)
+22. [Sud-Kivu](#sud-kivu)
+23. [Sud-Ubangi](#sud-ubangi)
+24. [Tanganyika](#tanganyika)
+25. [Tshopo](#tshopo)
+26. [Tshuapa](#tshuapa)
 
-
-
+## Bas-Uele
+## Équateur 
+## Haut-Katanga
+## Haut-Lomami
+## Haut-Uele
+## Kasaï
+## Kasaï-Central
+## Kasaï-Oriental
 ## Kinshasa
 
 ### Gombe
@@ -40,6 +46,15 @@ Vous voulez savoir des endroits sympas pour avoir accès à internet et à l'él
 ### Nsele
 
 ### Mont-Ngafula
+
+## Kongo-Central
+## Kwango
+## Kwilu
+## Lomami
+## Lualaba
+## Mai-Ndombe
+## Maniema
+## Mongala
 
 ## Nord Kivu
 
@@ -63,6 +78,15 @@ Vous voulez savoir des endroits sympas pour avoir accès à internet et à l'él
 ### Rutshuru
 
 ### Masisi
+
+## Nord-Ubangi
+## Sankuru
+## Sud-Kivu
+## Sud-Ubangi
+## Tanganyika
+## Tshopo
+## Tshuapa
+
 
 
 
