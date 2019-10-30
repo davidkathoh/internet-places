@@ -61,8 +61,9 @@ Besoin d'un endroit calme avec accès internet et électricité permanent en Rep
 ### Goma
 
 - Plage du peuple
-
-  Avenue de la paix, Coummune de Goma, Goma.
+  Avenue de la paix, Commune de Goma, Goma.
+- O Konect
+  Avenue Beni, Boulevard Kanyamuhanga, Quartier les volcans, Commune de Goma, Goma
 
 ### Butembo
 
